@@ -1,8 +1,7 @@
 export const Navigation = () => {
   return (
-    <ul>
-      <li>products</li>
-      <li>basket</li>
-    </ul>
+    <div>
+      <span>products</span> | <span>basket</span>
+    </div>
   );
 };
